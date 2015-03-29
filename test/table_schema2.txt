@@ -1,0 +1,2 @@
+schema=id,degree,language,sex
+primary_keys=id
