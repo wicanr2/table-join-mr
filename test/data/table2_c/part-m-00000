@@ -1,0 +1,5 @@
+id='user1',degree='國小',language='中文',sex='男'
+id='user2',degree='國中',language='台語',sex='男'
+id='user3',degree='高中',language='國語',sex='男'
+id='user4',degree='大學',language='英語',sex='女'
+id='user5',degree='研究所',language='英語',sex='男'
